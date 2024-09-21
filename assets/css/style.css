@@ -39,8 +39,8 @@ body{
   gap: 50px;
 }
 .contenido>img{
-  height: 700px;
-  width: 1000px;
+  height: 40%;
+  width: 50%;
 }
 
 footer{
